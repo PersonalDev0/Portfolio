@@ -1,0 +1,14 @@
+h1 {
+    font-size: 2em;
+    color: black;
+    text-shadow: 0 0 0.1em #17202a , 0 0 0.1em black,
+    0 0 0.2em #17202a; 
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 2em;
+}
